@@ -1,0 +1,43 @@
+.carousel-area{
+    background-image: url(images/background/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 80px;  
+}
+.col-md-6{
+    padding: 10px 40px;
+}
+.carousel-indicators .active{
+    background-color: orange;
+}
+.carousel-indicators .gray{
+    background-color: gray;
+}
+h2{
+    margin: 100px 0;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.bg{
+    background-image: url(images/background/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: 150px;
+}
+.orange{
+    width: 110px;
+    height: 9px;
+    background-image: linear-gradient(90deg,rgb(242, 203, 84),orange);
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
+#cat{
+    margin-bottom: 5px;
+}
+.box{
+    box-shadow: 5px 5px 20px lightgray;
+    margin-bottom: 40px;
+    margin-left: 40px;
+}
